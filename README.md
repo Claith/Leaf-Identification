@@ -1,4 +1,4 @@
 # Leaf-Identification
-Last MATLAB project. Slim time frame, several issues. If I revisit this topic, I'll approach it in a different manner. Will upload once I locate files.
+Last MATLAB project. Last "completed" large projects. Details on approach and implementation in ReadMe.rtf and the Report pdf Slim time frame, several issues. If I revisit this topic, I'll approach it in a different manner. If anyone wants to run and test this, they will likely have to fiddle with things to get the data set (once they get it) working correctly. There is a script included that must be run first to cull out images that aren't to be used.
 
-Files found, sorting them. Will upload by week's end.
+I'm quite happy with this project, not because it was a stellar success, but the implementation is distinct in that at the time (haven't researched since) I did not find another algorithm implementing the same approach. My research period was small, so it may exist, but if it did, it did not influence me. Most used some form of AI, such as neural networks to classify images, and I attempted to do it with a computational method. Next time, ideally, I'd use a light AI to assist, but I'd still want to approach it in a computational method for a personal project. For a professional project, I'd take the opposite approach and a heavier AI with light computation.
